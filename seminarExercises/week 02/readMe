@@ -3,4 +3,5 @@ area of rectangular.cpp -> Printing the area of rectangular
 ascii number.cpp -> Printing the ascii number of a character
 div.cpp -> Prints the division between two numbers
 swap.cpp -> Swapping two numbers
-time
+time diff.cpp -> Printing the difference between time
+upper and lower character.cpp -> Prints and makes lowerletter to upperletter
