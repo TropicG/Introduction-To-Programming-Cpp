@@ -15,3 +15,4 @@ int main() {
 
 	cout << "The lower character of your letter is: " << (char)(c + 32);
 	return 0;
+}
