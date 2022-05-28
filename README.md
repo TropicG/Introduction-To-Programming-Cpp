@@ -1,13 +1,13 @@
-Here i have uploaded cpp files with solution to various programming problem given by our university's assistent for homework.
+Here you can find problems which we have covered in our classes and homeworks that have been given to us during the semester. The course had as a goal to teach us the basic principles to programming and making the students 'think' just like programmers do. 
 
-We have tackeled different topics in C++ such as:
-- std::cin and std::cout for working with input and output to the console
-- for, while, do while 
-- if, else
-- arrays
+Here is what we covered in this course:
+- C++ syntax, variables
+- std::cin and std::cout
+- if else statements as well logic operators
+- while, for, do while loops
 - functions
-- pointers
+- pointers and references
 - dynamic memory and heap
-- structure
+- structures 
 
-Aside from those homework I have uploaded cpp files for the preparation for our two and final exam and all thee three exam's problems themselves.
+I will add soon and solution to the exercises given to us during our exam during the semester.
